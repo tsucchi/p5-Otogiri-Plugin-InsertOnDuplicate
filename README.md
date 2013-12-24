@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/tsucchi/p5-Otogiri-Plugin-InsertOnDuplicate.png?branch=master)](https://travis-ci.org/tsucchi/p5-Otogiri-Plugin-InsertOnDuplicate) [![Coverage Status](https://coveralls.io/repos/tsucchi/p5-Otogiri-Plugin-InsertOnDuplicate/badge.png?branch=master)](https://coveralls.io/r/tsucchi/p5-Otogiri-Plugin-InsertOnDuplicate?branch=master)
 # NAME
 
 Otogiri::Plugin::InsertOnDuplicate - provide insert\_on\_duplicate method to Otogiri
